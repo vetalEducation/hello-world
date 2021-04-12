@@ -1,11 +1,11 @@
 public class Code {
-	private String code;
+	private long code;
 
-	public Code(String code) {
+	public Code(long code) {
 		this.code = code;
 	}	
 
-	public String getCode() {
+	public long getCode() {
 		return code;
 	}
 }
