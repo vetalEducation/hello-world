@@ -1,11 +1,11 @@
 public class Code {
-	private int code;
+	private String code;
 
-	public Code(int code) {
+	public Code(String code) {
 		this.code = code;
 	}	
 
-	public int getCode() {
+	public String getCode() {
 		return code;
 	}
 }
