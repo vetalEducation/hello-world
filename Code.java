@@ -8,4 +8,9 @@ public class Code {
 	public long getCode() {
 		return code;
 	}
+	
+	@Override
+	public String toString() {
+		return "Code {" + "code = " + code + ;
+	}
 }
