@@ -11,6 +11,6 @@ public class Code {
 	
 	@Override
 	public String toString() {
-		return "Code {" + "code = " + code + ;
+		return "Code {" + "code = " + code + '}';
 	}
 }
